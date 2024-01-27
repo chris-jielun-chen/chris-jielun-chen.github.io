@@ -1,3 +1,4 @@
+### About
 I'm a second-year Ph.D. student at Caltech, advised by Garnet Chan and John Preskill. I'm interested in tensor network methods and their applications in quantum chemistry and quantum computing. Recently I've been particularly interested in quantized tensor train (see [here](https://tensornetwork.org/functions/) for a good overview).
 
 ### Publications
