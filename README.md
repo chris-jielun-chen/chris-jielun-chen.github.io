@@ -3,7 +3,7 @@ I'm a second-year Ph.D. student at Caltech, advised by Garnet Chan and John Pres
 ### Publications
 1. *Quantum Fourier transform has small entanglement*\
    **Jielun Chen**, E.M. Stoudenmire, Steven R. White\
-   [PRX Quantum (2023), 4, 4, 040318](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)
+   [PRX Quantum (2023), 4, 040318](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)
 2. *How well does Kohn–Sham regularizer work for weakly correlated systems?*\
    Bhupalee Kalita, Ryan Pederson, **Jielun Chen**, Li Li, and Kieron Burke\
    [J. Phys. Chem. Lett. (2022), 13, 11, 2540–2547](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c00371)
