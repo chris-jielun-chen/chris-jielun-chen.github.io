@@ -15,11 +15,10 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
    [Phys. Rev. B (2022), 105, 245138](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245138)
 
 ### Invited Talks
-**Quantized Tensor Train: entanglement analysis of encoding functions in quantum states** [(slides)](/assets/slides/QTT_UCB.pdf)
-- UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct 2023
-
-**Quantum Fourier transform has small entanglement** [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf)
-- Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, March 2023
-- Tensor Network Weekly Meeting hosted by Guifré Vidal (online), Nov 2022
-- Symposium on New Developments in Tensor Networks and Quantum Computation, Flatiron Institute & Initiative for Theoretical Sciences, New York, Nov 2022
+- **Quantized Tensor Train: entanglement analysis of encoding functions in quantum states** [(slides)](/assets/slides/QTT_UCB.pdf)
+  - UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct 2023
+- **Quantum Fourier transform has small entanglement** [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf)
+  - Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, March 2023
+  - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), Nov 2022
+  - Symposium on New Developments in Tensor Networks and Quantum Computation, Flatiron Institute & Initiative for Theoretical Sciences, New York, Nov 2022
 
