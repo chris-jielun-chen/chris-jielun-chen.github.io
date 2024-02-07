@@ -6,16 +6,13 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
 ### Publications
 1. *Quantum Fourier transform has small entanglement*\
    **Jielun Chen**, E.M. Stoudenmire, Steven R. White\
-   PRX Quantum (2023), 4, 040318\
-   [[journal](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)] [[arXiv:2210.08468](https://arxiv.org/abs/2210.08468)]
+   [[PRX Quantum (2023)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)] [[arXiv:2210.08468](https://arxiv.org/abs/2210.08468)]
 3. *How well does Kohn–Sham regularizer work for weakly correlated systems?*\
    Bhupalee Kalita, Ryan Pederson, **Jielun Chen**, Li Li, and Kieron Burke\
-   J. Phys. Chem. Lett. (2022), 13, 11, 2540–2547\
-   [[journal](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c00371)] [[arXiv:2110.14846](https://arxiv.org/abs/2110.14846)]
+   [[J. Phys. Chem. Lett. (2022)](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c00371)] [[arXiv:2110.14846](https://arxiv.org/abs/2110.14846)]
 5. *Conditional probability density functional theory*\
    Ryan Pederson, **Jielun Chen**, Steven R. White, Kieron Burke\
-   Phys. Rev. B (2022), 105, 245138\
-   [[journal](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245138)] [[arXiv:2203.09647](https://arxiv.org/abs/2203.09647)]
+   [[Phys. Rev. B (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245138)] [[arXiv:2203.09647](https://arxiv.org/abs/2203.09647)]
 
 ### Invited Talks
 - **Quantized Tensor Train: entanglement analysis of encoding functions in quantum states** [(slides)](/assets/slides/QTT_UCB.pdf)
