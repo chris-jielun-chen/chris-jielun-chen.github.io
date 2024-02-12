@@ -15,6 +15,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
    [[Phys. Rev. B 2022](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245138)] [[arXiv:2203.09647](https://arxiv.org/abs/2203.09647)]
 
 ### Invited Talks
+(slides may not reflect latest updates)
 - **Quantized Tensor Train: entanglement analysis of encoding functions in quantum states** [(slides)](/assets/slides/QTT_UCB.pdf)
   - UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct 2023
 - **Quantum Fourier transform has small entanglement** [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf)
