@@ -1,5 +1,5 @@
 ### About
-I'm a second-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](http://theory.caltech.edu/~preskill/). I'm interested in tensor network methods and their applications in quantum chemistry and quantum computing. Recently I've been working on quantized tensor train (see [here](https://tensornetwork.org/functions/) for a good overview).
+I'm a second-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](http://theory.caltech.edu/~preskill/). I'm interested in tensor network methods and their applications in quantum chemistry and quantum computing.
 
 Previously, I obtained my B.S. from UC Irvine with a double major in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
