@@ -3,7 +3,7 @@ I'm a second-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https
 
 Previously, I obtained my B.S. from UC Irvine with a double major in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
-### Publications
+### Publications & Preprints
 1. *Quantum Fourier transform has small entanglement*\
    **Jielun Chen**, E.M. Stoudenmire, Steven R. White\
    [[PRX Quantum 2023](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)] [[arXiv:2210.08468](https://arxiv.org/abs/2210.08468)]
