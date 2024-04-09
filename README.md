@@ -5,7 +5,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
 
 ### Publications & Preprints
 1. *Direct interpolative construction of the discrete Fourier transform as a matrix product operator*\
-   **Jielun Chen**, Michael Lindsey\
+  (alphabetical order) **Jielun Chen**, Michael Lindsey\
    [[arXiv:2404.03182](https://arxiv.org/abs/2404.03182)]
 3.  *Quantum Fourier transform has small entanglement*\
    **Jielun Chen**, E.M. Stoudenmire, Steven R. White\
