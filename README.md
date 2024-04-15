@@ -23,7 +23,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
   - UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct 2023
 - **Quantum Fourier transform has small entanglement** [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf)
   - Yuehaw Khoo group meeting (online), University of Chicago, Feb 2024
-  - Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, March 2023
+  - Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, March 2023 [(video)](https://www.youtube.com/live/-ZP2v52TrY8?si=IVgzXlx5VKPBBJJU)
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), Nov 2022
   - Symposium on New Developments in Tensor Networks and Quantum Computation, Flatiron Institute & Initiative for Theoretical Sciences, New York, Nov 2022
 
