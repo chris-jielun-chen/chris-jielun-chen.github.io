@@ -23,6 +23,8 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
 ### Talks
 (invited talks are marked with *)\
 (slides may not include latest updates)
+- **Sign problem in tensor network contraction** [(slides)](/assets/slides/sign_problem_in_TN.pdf)
+  - *Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024
 - **Quantized Tensor Train: entanglement analysis of encoding functions in quantum states** [(slides)](/assets/slides/QTT_UCB.pdf)
   - *UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct 2023
 - **Quantum Fourier transform has small entanglement** [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf)
