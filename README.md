@@ -20,7 +20,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
    [Ryan Pederson](https://www.rpederson.com/), Jielun Chen, [Steven R. White](https://eqi.uci.edu/steven-r-white/), [Kieron Burke](https://eqi.uci.edu/kieron-burke/)\
    [[Phys. Rev. B 2022](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245138)] [[arXiv:2203.09647](https://arxiv.org/abs/2203.09647)]
 
-### Talks
+### Invited Talks
 (slides may not include latest updates)
 - **Sign problem in tensor network contraction** [(slides)](/assets/slides/sign_problem_in_TN.pdf)
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024
@@ -28,7 +28,6 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
   - UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct 2023
 - **Quantum Fourier transform has small entanglement** [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf)
   - Yuehaw Khoo group meeting (online), University of Chicago, Feb 2024
-  - APS March Meeting 2023, Las Vegas, March 2023
   - Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, March 2023 [(video)](https://www.youtube.com/live/-ZP2v52TrY8?si=IVgzXlx5VKPBBJJU)
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), Nov 2022
   - Symposium on New Developments in Tensor Networks and Quantum Computation, Flatiron Institute & Initiative for Theoretical Sciences, New York, Nov 2022
