@@ -26,7 +26,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024
 - **Quantized Tensor Train: entanglement analysis of encoding functions in quantum states** [(slides)](/assets/slides/QTT_UCB.pdf)
   - UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct 2023
-- **Quantum Fourier transform has small entanglement** [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf)
+- **Quantum Fourier transform has small entanglement** [(slides1)](/assets/slides/QFT_Simons_Colloquium.pdf) [(slides2)](/assets/slides/DFT_in_QTT.pdf)
   - Yuehaw Khoo group meeting (online), University of Chicago, Feb 2024
   - Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, March 2023 [(video)](https://www.youtube.com/live/-ZP2v52TrY8?si=IVgzXlx5VKPBBJJU)
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), Nov 2022
