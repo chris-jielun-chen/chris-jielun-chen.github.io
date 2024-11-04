@@ -4,7 +4,10 @@ I'm a 3rd-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://
 Previously, I obtained my B.S. from UC Irvine with a double major in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
 ### Publications & Preprints
-1. **Positive bias makes tensor-network contraction tractable**\
+1. **Quantum linear algebra for disordered electrons**\
+   Jielun Chen, [Garnet Chan](https://www.chan-lab.caltech.edu/about-garnet)\
+   [[arXiv:2411.00434](https://arxiv.org/abs/2411.00434)]
+2. **Positive bias makes tensor-network contraction tractable**\
    [Jiaqing Jiang](https://jiaqingjiang.github.io/), Jielun Chen, [Norbert Schuch](https://schuch.univie.ac.at/nschuch/), [Dominik Hangleiter](https://dhangleiter.github.io/)\
    [[arXiv:2410.05414](https://arxiv.org/abs/2410.05414)]
 3. **Sign problem in tensor network contraction**\
