@@ -5,7 +5,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
 
 ### Publications & Preprints
 1. **Quantum linear algebra for disordered electrons**\
-   Jielun Chen, [Garnet Chan](https://www.chan-lab.caltech.edu/about-garnet)\
+   Jielun Chen, [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet)\
    [[arXiv:2411.00434](https://arxiv.org/abs/2411.00434)]
 2. **Positive bias makes tensor-network contraction tractable**\
    [Jiaqing Jiang](https://jiaqingjiang.github.io/), Jielun Chen, [Norbert Schuch](https://schuch.univie.ac.at/nschuch/), [Dominik Hangleiter](https://dhangleiter.github.io/)\
