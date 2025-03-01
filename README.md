@@ -26,7 +26,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
    [Ryan Pederson](https://www.rpederson.com/), Jielun Chen, [Steven R. White](https://eqi.uci.edu/steven-r-white/), [Kieron Burke](https://eqi.uci.edu/kieron-burke/)\
    [[Phys. Rev. B 2022](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245138)] [[arXiv:2203.09647](https://arxiv.org/abs/2203.09647)]
 
-### Invited Talks
+### Talks
 (slides may not include latest updates)
 - **Sign problem in tensor network contraction** [(slides)](/assets/slides/sign_problem_in_TN.pdf)
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024
