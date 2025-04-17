@@ -9,7 +9,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
    [[arXiv:2411.00434](https://arxiv.org/abs/2411.00434)]
 2. **Positive bias makes tensor-network contraction tractable**\
    [Jiaqing Jiang](https://jiaqingjiang.github.io/), Jielun Chen, [Norbert Schuch](https://schuch.univie.ac.at/nschuch/), [Dominik Hangleiter](https://dhangleiter.github.io/)\
-   [QIP 2025] [STOC 2025] [[arXiv:2410.05414](https://arxiv.org/abs/2410.05414)]
+   [[QIP 2025](https://rsvp.duke.edu/event/qip2025/home)] [[STOC 2025](https://acm-stoc.org/stoc2025/index.html)] [[arXiv:2410.05414](https://arxiv.org/abs/2410.05414)]
 3. **Sign problem in tensor network contraction**\
    Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Dominik Hangleiter](https://dhangleiter.github.io/), [Norbert Schuch](https://schuch.univie.ac.at/nschuch/)\
    [[PRX Quantum 2024](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010312)] [[arXiv:2404.19023](https://arxiv.org/abs/2404.19023)]
