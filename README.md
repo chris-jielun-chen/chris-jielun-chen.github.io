@@ -28,6 +28,8 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
 
 ### Talks
 (slides may not include latest updates)
+- **Positive bias makes tensor network contraction tractable**
+  - QIP 2025, Raleigh, Feb 2025
 - **Sign problem in tensor network contraction** [(slides)](/assets/slides/sign_problem_in_TN.pdf)
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024
 - **Quantized Tensor Train: entanglement analysis of encoding functions in quantum states** [(slides)](/assets/slides/QTT_UCB.pdf)
