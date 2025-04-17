@@ -28,7 +28,7 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
 
 ### Talks
 (slides may not include latest updates)
-- **Positive bias makes tensor network contraction tractable**
+- **Positive bias makes tensor network contraction tractable** [(slides)](/assets/slides/QIP_PTN_02_25_2025.pdf)
   - QIP 2025, Raleigh, Feb 2025
 - **Sign problem in tensor network contraction** [(slides)](/assets/slides/sign_problem_in_TN.pdf)
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024
