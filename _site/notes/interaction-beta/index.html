@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Interaction picture and beta function | Jielun (Chris) Chen</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Interaction picture and beta function" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This post is about the equivalence between two derivations of perturbation expansion." />
+<meta property="og:description" content="This post is about the equivalence between two derivations of perturbation expansion." />
+<link rel="canonical" href="http://localhost:4000/notes/interaction-beta/" />
+<meta property="og:url" content="http://localhost:4000/notes/interaction-beta/" />
+<meta property="og:site_name" content="Jielun (Chris) Chen" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-04-19T00:00:00-07:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Interaction picture and beta function" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-04-19T00:00:00-07:00","datePublished":"2025-04-19T00:00:00-07:00","description":"This post is about the equivalence between two derivations of perturbation expansion.","headline":"Interaction picture and beta function","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/notes/interaction-beta/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/profile.jpg"}},"url":"http://localhost:4000/notes/interaction-beta/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=d176ab1e703c0a120b9072d5c4edadc1c6004ca9">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+    <style>
+      body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+      }
+      nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: white;
+        padding: 15px 30px;
+        z-index: 1000;
+        border-bottom: 1px solid #ccc;
+        font-size: 1.25em;
+        line-height: 1.5em;
+        box-sizing: border-box;
+      }
+      .content {
+        margin-top: 40px;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0 30px;
+        text-align: left;
+        box-sizing: border-box;
+      }
+    </style>
+  </head>
+  <!-- Enables MathJax with inline and display math -->
+<script>
+  window.MathJax = {
+    loader: {load: ['[tex]/color']},
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      tags: 'all',  // <-- enables automatic numbering + labels + references
+      packages: {'[+]': ['color']}
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+  <body>
+
+    <!-- Shared navigation bar -->
+    <nav>
+      <a href="/" style="margin-right: 20px; text-decoration: none; font-weight: bold; color: black;">Home</a>
+      <a href="/notes/" style="text-decoration: none; font-weight: bold; color: black;">Notes</a>
+    </nav>
+
+    <!-- Page content below nav -->
+    <div class="content">
+      <h1>Interaction picture and beta function</h1>
+      
+        <p style="color: #666; font-size: 0.95em; margin-top: -0.5em; margin-bottom: 1.5em;">
+          2025-04-19
+        </p>
+      
+    
+      <p>This post is about the equivalence between two derivations of perturbation expansion.</p>
+
+<p><em>Interaction picture</em> frequently arises when analyzing a perturbed Hamiltonian of the form $\hat{H} = \hat{H}_0 + \xi \hat{V}$. For example, consider the task of estimating the partition function $Z = \text{Tr}(\exp(-\beta \hat{H}))$. We first do a “harmless” factorization by seperating the free part out, and call the rest $\hat{S}(\beta)$</p>
+
+\[e^{-\beta(\hat{H}_0+\xi \hat{V})}
+    \;=\;
+    e^{-\beta \hat{H}_0}\,
+    \underbrace{e^{\beta \hat{H}_0}\,e^{-\beta(\hat{H}_0+\xi \hat{V})}}_{\displaystyle \hat{S}(\beta)},\]
+
+<p>and the <em>interaction-picture operator</em> $\hat{V}_I(\tau) = e^{\tau \hat{H}_0} \hat{V} e^{-\tau \hat{H}_0}$ naturally appears by differentiating $\hat{S}(\tau)$,</p>
+
+\[\begin{split}
+\frac{d\hat{S}}{d\tau}
+&amp;=
+\hat{H}_0\,e^{\tau \hat{H}_0}\,e^{-\tau(\hat{H}_0+\xi \hat{V})}
+-
+e^{\tau \hat{H}_0}\,
+(\hat{H}_0+\xi \hat{V})\,e^{-\tau(\hat{H}_0+\xi \hat{V})}
+\nonumber\\
+&amp;=
+-\xi\,
+\underbrace{e^{\tau \hat{H}_0}\,
+            \hat{V}\,
+            e^{-\tau \hat{H}_0}}_{\displaystyle \hat{V}_I(\tau)}
+\,\hat{S}(\tau).
+\end{split}\]
+
+<p>With $\hat{S}(0) = I$, we can integrate both side of the equation and get</p>
+
+\[\hat{S}(\beta)=I
+\;-\;\xi\!\!\int_{0}^{\beta}\!\!d\tau_{1}\,
+            \hat{V}_I(\tau_{1})\,
+            \hat{S}(\tau_{1}) .\]
+
+<p>and thus by repeatively substituting $\hat{S}$ to itself, we obtain the series expansion</p>
+
+\[Z = \text{Tr}\left(e^{\beta \hat{H}_0} \hat{S}(\beta)\right) = \sum_{m \geq 0} (-\xi)^m \int_{0}^{\beta} d\tau_1 ...\int_{0}^{\tau_{m-1}} d\tau_{m} \text{Tr}\left(e^{\beta \hat{H}_0} \hat{V}(\tau_1) ... \hat{V}(\tau_m)  \right)\]
+
+<p>However, one can also consider a direct Taylor expansion</p>
+
+\[\begin{split}
+    Z &amp;= \sum_{m \geq 0} \frac{\xi^m}{m!} \frac{\partial^m Z}{\partial \xi^m} \Bigg |_{\xi = 0}\\
+\end{split}\]
+
+<p>and each term takes a different form. For example the second order looks like</p>
+
+\[\begin{split}
+    \frac{\partial^2 Z}{\partial \xi^2} &amp;= \text{Tr} \left( \sum_{l=0}^{\infty} \frac{(-\beta)^l}{l!} \frac{\partial^2 }{\partial \xi^2} \hat{H}^l \right) \\
+    &amp;=2\text{Tr}\left(\sum_{j,k,p=0}^{\infty} \frac{(-\beta)^{j+k+p+2} }{(j+k+p+2)!} \hat{H}^{j} \hat{V} \hat{H}^{k} \hat{V} \hat{H}^{p} \right)
+\end{split}\]
+
+<p>By the preceding argument we should have</p>
+
+\[\color{red} 
+\int_{0}^{\beta} d\tau_1 \int_{0}^{\tau_{1}} d\tau_{2} \text{Tr}\left(e^{\beta \hat{H}_0} \hat{V}(\tau_1) \hat{V}(\tau_2)  \right) \stackrel{?}{=} \sum_{j,k,p=0}^{\infty} \frac{(-\beta)^{j+k+p+2} }{(j+k+p+2)!} \text{Tr}\left(\hat{H}^{j} \hat{V} \hat{H}^{k} \hat{V} \hat{H}^{p} \right)\]
+
+    </div>
+
+    <script src="/assets/js/scale.fix.js"></script>
+  </body>
+</html>

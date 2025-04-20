@@ -1,8 +1,18 @@
 theme: jekyll-theme-minimal
 title: Jielun (Chris) Chen
-description: jchen9@caltech.edu <br> <a href="https://twitter.com/ChrisJielun">Twitter</a> <br> <a href="https://scholar.google.com/citations?user=y8vu7AUAAAAJ&hl=en">Google scholar</a>
-logo: /assets/img/head_square.jpg
+description: <br> $\frac{1}{\sqrt{2}}|$🧑$\rangle+\frac{1}{\sqrt{2}}|$🐱$\rangle$  <br>  <br> jchen9@caltech.edu <br> <a href="https://twitter.com/ChrisJielun">Twitter</a> <br> <a href="https://scholar.google.com/citations?user=y8vu7AUAAAAJ&hl=en">Google scholar</a>
+logo: /assets/img/profile.jpg
 github:
   is_project_page: false
   is_user_page: false
   site.github: chris-jielun-chen.github.io
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name/
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
