@@ -28,17 +28,17 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
 
 ### Talks
 (slides may not include latest updates)
-- **Positive bias makes tensor network contraction tractable**
-  - QIP 2025, Raleigh, Feb 2025 [(slides)](/assets/slides/QIP_PTN_02_25_2025.pdf)
-- **Sign problem in tensor network contraction**
-  - APS March Meeting, Anaheim, Mar 2025
+- **Complexity of slightly positive tensor networks**
+  - Center for Computational Quantum Physics at Simons Foundation, New York, Apr. 2025 [(slides)](/assets/slides/CCQ_positive_TN.pdf)
+  - QIP 2025, Raleigh, Feb. 2025 [(slides)](/assets/slides/QIP_PTN_02_25_2025.pdf)
+  - APS March Meeting, Anaheim, Mar. 2025
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024 [(slides)](/assets/slides/sign_problem_in_TN.pdf)
-- **Quantized Tensor Train: entanglement analysis of encoding functions in quantum states** 
-  - UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct 2023 [(slides)](/assets/slides/QTT_UCB.pdf)
+- **Quantized Tensor Train** 
+  - UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct. 2023 [(slides)](/assets/slides/QTT_UCB.pdf)
 - **Quantum Fourier transform has small entanglement**
-  - Yuehaw Khoo group meeting (online), University of Chicago, Feb 2024 [(slides)](/assets/slides/DFT_in_QTT.pdf)
-  - APS March Meeting, Las Vegas, Mar 2023
-  - Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, March 2023 [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf) [(video)](https://www.youtube.com/live/-ZP2v52TrY8?si=IVgzXlx5VKPBBJJU)
-  - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), Nov 2022
-  - Symposium on New Developments in Tensor Networks and Quantum Computation, Flatiron Institute & Initiative for Theoretical Sciences, New York, Nov 2022
+  - Yuehaw Khoo group meeting (online), University of Chicago, Feb. 2024 [(slides)](/assets/slides/DFT_in_QTT.pdf)
+  - APS March Meeting, Las Vegas, Mar. 2023
+  - Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, Mar. 2023 [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf) [(video)](https://www.youtube.com/live/-ZP2v52TrY8?si=IVgzXlx5VKPBBJJU)
+  - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), Nov. 2022
+  - Symposium on New Developments in Tensor Networks and Quantum Computation, Flatiron Institute & Initiative for Theoretical Sciences, New York, Nov. 2022
 
