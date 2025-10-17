@@ -1,5 +1,5 @@
 ### About
-I'm a 3rd-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/). I'm particularly interested in quantum computing and quantum chemistry. Recently I've been working on tensor network methods and quantum algorithms.
+I'm a 4th-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/). My research focuses on developing quantum algorithms for quantum chemistry and exploring ideas at the intersection of quantum computing and tensor-network methods.
 
 Previously, I obtained my B.S. from UC Irvine with a double major in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
@@ -31,9 +31,11 @@ Previously, I obtained my B.S. from UC Irvine with a double major in physics and
 
 ### Talks
 (slides may not include latest updates)
+- **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**
+  - AWS quantum algorithm meeting, Pasadena, Sep. 2025
 - **Complexity of slightly positive tensor networks**
   - Center for Computational Quantum Physics at Simons Foundation, New York, Apr. 2025 [(slides)](/assets/slides/CCQ_positive_TN.pdf)
-  - QIP 2025, Raleigh, Feb. 2025 [(slides)](/assets/slides/QIP_PTN_02_25_2025.pdf)
+  - QIP 2025, Raleigh, Feb. 2025 [(slides)](/assets/slides/QIP_PTN_02_25_2025.pdf) [(video)](https://youtu.be/6clFrPeDYiw?si=Z5ueBiM7u5AaOv8J)
   - APS March Meeting, Anaheim, Mar. 2025
   - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024 [(slides)](/assets/slides/sign_problem_in_TN.pdf)
 - **Quantized Tensor Train** 
