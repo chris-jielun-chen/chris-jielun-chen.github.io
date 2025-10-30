@@ -1,7 +1,7 @@
 ### About
 I'm a 4th-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/). My research focuses on developing quantum algorithms for quantum chemistry and exploring ideas at the intersection of quantum computing and tensor-network methods.
 
-Previously, I obtained my B.S. from UC Irvine in 2022 with a double major in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
+Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
 ### Publications & Preprints
 1. **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**\
