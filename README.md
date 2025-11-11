@@ -32,8 +32,8 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
 ### Talks
 (slides may not include latest updates)
 - **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**
-  - AWS quantum algorithm meeting, Pasadena, Sep. 2025
   - Kaifeng Bu group meeting, Ohio State University, Nov. 2025
+  - AWS quantum algorithm meeting, Pasadena, Sep. 2025
 - **Complexity of slightly positive tensor networks**
   - Center for Computational Quantum Physics at Simons Foundation, New York, Apr. 2025 [(slides)](/assets/slides/CCQ_positive_TN.pdf)
   - QIP 2025, Raleigh, Feb. 2025 [(slides)](/assets/slides/QIP_PTN_02_25_2025.pdf) [(video)](https://youtu.be/6clFrPeDYiw?si=Z5ueBiM7u5AaOv8J)
