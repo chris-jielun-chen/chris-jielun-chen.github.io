@@ -1,5 +1,5 @@
 ### About
-I'm a 4th-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/). My research focuses on developing quantum algorithms for quantum chemistry and exploring ideas at the intersection of quantum computing and tensor-network methods.
+I'm a 4th-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/). My research focuses on developing quantum algorithms for quantum chemistry, and exploring ideas at the intersection of quantum computing and tensor-network methods.
 
 Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
@@ -12,7 +12,7 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
    [[arXiv:2411.00434](https://arxiv.org/abs/2411.00434)]
 4. **Positive bias makes tensor-network contraction tractable**\
    [Jiaqing Jiang](https://jiaqingjiang.github.io/), Jielun Chen, [Norbert Schuch](https://schuch.univie.ac.at/nschuch/), [Dominik Hangleiter](https://dhangleiter.github.io/)\
-   [[QIP 2025](https://rsvp.duke.edu/event/qip2025/home)] [[STOC 2025](https://acm-stoc.org/stoc2025/index.html)] [[arXiv:2410.05414](https://arxiv.org/abs/2410.05414)]
+   [[QIP 2025](https://youtu.be/6clFrPeDYiw?si=Z5ueBiM7u5AaOv8J)] [[STOC 2025](https://acm-stoc.org/stoc2025/index.html)] [[arXiv:2410.05414](https://arxiv.org/abs/2410.05414)]
 5. **Sign problem in tensor network contraction**\
    Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Dominik Hangleiter](https://dhangleiter.github.io/), [Norbert Schuch](https://schuch.univie.ac.at/nschuch/)\
    [[PRX Quantum 2024](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010312)] [[arXiv:2404.19023](https://arxiv.org/abs/2404.19023)]
@@ -33,17 +33,18 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
 (slides may not include latest updates)
 - **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**
   - AWS quantum algorithm meeting, Pasadena, Sep. 2025
+  - Kaifeng Bu group meeting, Ohio State University, Nov. 2025
 - **Complexity of slightly positive tensor networks**
   - Center for Computational Quantum Physics at Simons Foundation, New York, Apr. 2025 [(slides)](/assets/slides/CCQ_positive_TN.pdf)
   - QIP 2025, Raleigh, Feb. 2025 [(slides)](/assets/slides/QIP_PTN_02_25_2025.pdf) [(video)](https://youtu.be/6clFrPeDYiw?si=Z5ueBiM7u5AaOv8J)
   - APS March Meeting, Anaheim, Mar. 2025
-  - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), June 2024 [(slides)](/assets/slides/sign_problem_in_TN.pdf)
+  - Tensor Network Weekly Meeting hosted by Guifré Vidal, June 2024 [(slides)](/assets/slides/sign_problem_in_TN.pdf)
 - **Quantized Tensor Train** 
   - UC Berkeley / Lawrence Berkeley Laboratory Applied Mathematics Seminar, Berkeley, Oct. 2023 [(slides)](/assets/slides/QTT_UCB.pdf)
 - **Quantum Fourier transform has small entanglement**
-  - Yuehaw Khoo group meeting (online), University of Chicago, Feb. 2024 [(slides)](/assets/slides/DFT_in_QTT.pdf)
+  - Yuehaw Khoo group meeting, University of Chicago, Feb. 2024 [(slides)](/assets/slides/DFT_in_QTT.pdf)
   - APS March Meeting, Las Vegas, Mar. 2023
-  - Quantum Colloquium (online), Simons Institute for the Theory of Computing, Berkeley, Mar. 2023 [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf) [(video)](https://www.youtube.com/live/-ZP2v52TrY8?si=IVgzXlx5VKPBBJJU)
-  - Tensor Network Weekly Meeting hosted by Guifré Vidal (online), Nov. 2022
+  - Quantum Colloquium, Simons Institute for the Theory of Computing, Berkeley, Mar. 2023 [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf) [(video)](https://www.youtube.com/live/-ZP2v52TrY8?si=IVgzXlx5VKPBBJJU)
+  - Tensor Network Weekly Meeting hosted by Guifré Vidal, Nov. 2022
   - Symposium on New Developments in Tensor Networks and Quantum Computation, Flatiron Institute & Initiative for Theoretical Sciences, New York, Nov. 2022
 
