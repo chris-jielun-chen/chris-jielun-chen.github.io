@@ -12,7 +12,7 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
    [[arXiv:2411.00434](https://arxiv.org/abs/2411.00434)]
 4. **Positive bias makes tensor-network contraction tractable**\
    [Jiaqing Jiang](https://jiaqingjiang.github.io/), Jielun Chen, [Norbert Schuch](https://schuch.univie.ac.at/nschuch/), [Dominik Hangleiter](https://dhangleiter.github.io/)\
-   [[QIP 2025](https://youtu.be/6clFrPeDYiw?si=Z5ueBiM7u5AaOv8J)] [[STOC 2025](https://acm-stoc.org/stoc2025/index.html)] [[arXiv:2410.05414](https://arxiv.org/abs/2410.05414)]
+   [[QIP 2025](https://youtu.be/6clFrPeDYiw?si=xwYgceBmDHyXiOe1)] [[STOC 2025](https://acm-stoc.org/stoc2025/index.html)] [[arXiv:2410.05414](https://arxiv.org/abs/2410.05414)]
 5. **Sign problem in tensor network contraction**\
    Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Dominik Hangleiter](https://dhangleiter.github.io/), [Norbert Schuch](https://schuch.univie.ac.at/nschuch/)\
    [[PRX Quantum 2024](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010312)] [[arXiv:2404.19023](https://arxiv.org/abs/2404.19023)]
