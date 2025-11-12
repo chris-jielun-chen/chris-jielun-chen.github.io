@@ -18,7 +18,7 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
    [[PRX Quantum 2024](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010312)] [[arXiv:2404.19023](https://arxiv.org/abs/2404.19023)]
 6. **Direct interpolative construction of the discrete Fourier transform as a matrix product operator**\
   (alphabetical order) Jielun Chen, [Michael Lindsey](https://quantumtative.github.io/)\
-   [[arXiv:2404.03182](https://arxiv.org/abs/2404.03182)]
+   [[ACHA](https://www.sciencedirect.com/science/article/pii/S1063520325000715)][[arXiv:2404.03182](https://arxiv.org/abs/2404.03182)]
 7.  **Quantum Fourier transform has small entanglement**\
    Jielun Chen, [E.M. Stoudenmire](https://itensor.org/miles/), [Steven R. White](https://eqi.uci.edu/steven-r-white/)\
    [[PRX Quantum 2023](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)] [[arXiv:2210.08468](https://arxiv.org/abs/2210.08468)]
