@@ -45,6 +45,7 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
   - Yuehaw Khoo group meeting, University of Chicago, Feb. 2024 [(slides)](/assets/slides/DFT_in_QTT.pdf)
   - APS March Meeting, Las Vegas, Mar. 2023
   - Quantum Colloquium, Simons Institute for the Theory of Computing, Berkeley, Mar. 2023 [(slides)](/assets/slides/QFT_Simons_Colloquium.pdf) [(video)](https://www.youtube.com/live/-ZP2v52TrY8?si=IVgzXlx5VKPBBJJU)
+  - Quantum lunch seminar at Los Alamos National Lab, Feb. 2023
   - Tensor Network Weekly Meeting hosted by Guifré Vidal, Nov. 2022
   - Symposium on New Developments in Tensor Networks and Quantum Computation, Flatiron Institute & Initiative for Theoretical Sciences, New York, Nov. 2022
 
