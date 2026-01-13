@@ -5,7 +5,7 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
 
 ### Publications & Preprints
 
-1. **Convergence of the Cumulant Expansion and Polynomial-Time Algorithm for Weakly Interacting Fermions**\
+1. **Convergence of the cumulant expansion and polynomial-time algorithm for weakly interacting fermions**\
    [Hongrui Chen](https://scholar.google.com/citations?hl=en&user=YuxL73sAAAAJ), [Cambyse Rouzé](https://www.xn--cambyserouz-lbb.fr/), Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Samuel O. Scalet](https://scholar.google.com/citations?user=r1PlDJQAAAAJ&hl=en), [Yongtao Zhan](https://scholar.google.com/citations?hl=en&user=cYsoessAAAAJ), [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet), [Lexing Ying](https://web.stanford.edu/~lexing/), [Yu Tong](https://sites.math.duke.edu/~yt222/)
    [[arXiv:2512.12010](https://arxiv.org/abs/2512.12010)]
 2. **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**\
