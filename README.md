@@ -4,7 +4,11 @@ I'm a 4th-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://
 Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
 ### Publications & Preprints
-1. **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**\
+
+1. **Convergence of the Cumulant Expansion and Polynomial-Time Algorithm for Weakly Interacting Fermions**\
+   [Hongrui Chen](https://scholar.google.com/citations?hl=en&user=YuxL73sAAAAJ), [Cambyse Rouzé](https://www.xn--cambyserouz-lbb.fr/), Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Samuel O. Scalet](https://scholar.google.com/citations?user=r1PlDJQAAAAJ&hl=en), [Yongtao Zhan](https://scholar.google.com/citations?hl=en&user=cYsoessAAAAJ), [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet), [Lexing Ying](https://web.stanford.edu/~lexing/), [Yu Tong](https://sites.math.duke.edu/~yt222/)
+   [[arXiv:2512.12010](https://arxiv.org/abs/2512.12010)]
+2. **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**\
    Jielun Chen, [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet)\
    [[arXiv:2508.15765](https://arxiv.org/abs/2508.15765)]
 3. **Quantum linear algebra for disordered electrons**\
