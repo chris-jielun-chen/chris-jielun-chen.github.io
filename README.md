@@ -10,7 +10,7 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
    [[arXiv:2512.12010](https://arxiv.org/abs/2512.12010)]
 2. **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**\
    Jielun Chen, [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet)\
-   [[arXiv:2508.15765](https://arxiv.org/abs/2508.15765)]
+   [[arXiv:2508.15765](https://arxiv.org/abs/2508.15765)] [[XPRIZE Finalist (Team Calbee Quantum)](https://blog.google/innovation-and-ai/technology/research/google-gesda-xprize-quantum-applications-finalists/)]
 3. **Quantum linear algebra for disordered electrons**\
    Jielun Chen, [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet)\
    [[arXiv:2411.00434](https://arxiv.org/abs/2411.00434)]
