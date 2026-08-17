@@ -1,5 +1,5 @@
 ### About
-I'm a 4th-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/). I'm currently interested in developing quantum algorithms for quantum chemistry and materials science. I've also worked on tensor-network methods.
+I'm a 4th-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/). I'm currently developing quantum algorithms for quantum chemistry and materials science. I've also worked on tensor-network methods.
 
 Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
