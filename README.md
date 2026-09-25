@@ -14,7 +14,7 @@ Before Caltech, I earned B.S. degrees in physics and computer science at UC Irvi
 - **Dec 2025** — We posted a [preprint on a polynomial-time algorithm for weakly interacting fermions](https://arxiv.org/abs/2512.12010).
 - **Dec 2025** — Calbee Quantum, our team led by Garnet Chan, was selected as one of seven [XPRIZE Quantum Applications finalists](https://blog.google/innovation-and-ai/technology/research/google-gesda-xprize-quantum-applications-finalists/).
 
-### Selected Publications & Preprints
+### Recent Papers
 
 [Full publication list on Google Scholar](https://scholar.google.com/citations?user=y8vu7AUAAAAJ&hl=en)
 
@@ -41,7 +41,7 @@ Before Caltech, I earned B.S. degrees in physics and computer science at UC Irvi
    [[PRX Quantum 2023](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)] [[arXiv:2210.08468](https://arxiv.org/abs/2210.08468)]
 
 ### Talks
-(slides may not include latest updates)
+(slides may not include the latest updates)
 - **A framework for robust quantum speedups in practical correlated electronic structure and dynamics**
   - Kaifeng Bu group meeting, Ohio State University, Nov. 2025
   - AWS quantum algorithm meeting, Pasadena, Sep. 2025
