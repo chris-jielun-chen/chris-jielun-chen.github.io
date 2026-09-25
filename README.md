@@ -1,9 +1,22 @@
 ### About
-My name is Jielun Chen (陈捷伦), and I also go by Chris. I'm a 4th-year Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/). I'm currently developing quantum algorithms for quantum chemistry and materials science. I've also worked on tensor-network methods.
 
-Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and computer science. I had research experiences with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
+My name is Jielun Chen (陈捷伦), and I also go by Chris. I'm a Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/).
 
-### Publications & Preprints
+My research aims to find practical quantum advantages in simulating molecules and materials. We recently developed a [framework for polynomial quantum speedups](https://arxiv.org/abs/2508.15765) using the same approximations as classical electronic-structure methods.
+
+I also aim to understand the classical–quantum boundary through [tensor-network](https://en.wikipedia.org/wiki/Tensor_network) simulations, such as how [sign structure](https://arxiv.org/abs/2404.19023) affects [the difficulty of contracting tensor networks](https://arxiv.org/abs/2410.05414), and what [quantum-inspired tensor-network algorithms](https://chris-jielun-chen.github.io/assets/slides/QTT_UCB.pdf) can do.
+
+Before Caltech, I earned B.S. degrees in physics and computer science at UC Irvine in 2022, where I worked with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor-network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
+
+### Updates
+
+- **Sep 2026** — Our work on [robust quantum speedups for electronic structure and dynamics](https://journals.aps.org/prl/abstract/10.1103/v2ms-wmz1) was accepted in *Physical Review Letters*.
+- **Dec 2025** — We posted a [preprint on a polynomial-time algorithm for weakly interacting fermions](https://arxiv.org/abs/2512.12010).
+- **Dec 2025** — Calbee Quantum, our team led by Garnet Chan, was selected as one of seven [XPRIZE Quantum Applications finalists](https://blog.google/innovation-and-ai/technology/research/google-gesda-xprize-quantum-applications-finalists/).
+
+### Selected Publications & Preprints
+
+[Full publication list on Google Scholar](https://scholar.google.com/citations?user=y8vu7AUAAAAJ&hl=en)
 
 1. **Convergence of the cumulant expansion and polynomial-time algorithm for weakly interacting fermions**\
    [Hongrui Chen](https://scholar.google.com/citations?hl=en&user=YuxL73sAAAAJ), [Cambyse Rouzé](https://www.xn--cambyserouz-lbb.fr/), Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Samuel O. Scalet](https://scholar.google.com/citations?user=r1PlDJQAAAAJ&hl=en), [Yongtao Zhan](https://scholar.google.com/citations?hl=en&user=cYsoessAAAAJ), [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet), [Lexing Ying](https://web.stanford.edu/~lexing/), [Yu Tong](https://sites.math.duke.edu/~yt222/)
@@ -26,12 +39,6 @@ Prior to Caltech, I graduated from UC Irvine in 2022 with B.S. in physics and co
 7.  **Quantum Fourier transform has small entanglement**\
    Jielun Chen, [E.M. Stoudenmire](https://itensor.org/miles/), [Steven R. White](https://eqi.uci.edu/steven-r-white/)\
    [[PRX Quantum 2023](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)] [[arXiv:2210.08468](https://arxiv.org/abs/2210.08468)]
-8. **How well does Kohn–Sham regularizer work for weakly correlated systems?**\
-   [Bhupalee Kalita](https://scholar.google.com/citations?user=ibg0DIkAAAAJ&hl=en), [Ryan Pederson](https://www.rpederson.com/), Jielun Chen, [Li Li](https://scholar.google.com/citations?user=MsImb-AAAAAJ&hl=zh-CN), [Kieron Burke](https://eqi.uci.edu/kieron-burke/)\
-   [[J. Phys. Chem. Lett. 2022](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c00371)] [[arXiv:2110.14846](https://arxiv.org/abs/2110.14846)]
-9. **Conditional probability density functional theory**\
-   [Ryan Pederson](https://www.rpederson.com/), Jielun Chen, [Steven R. White](https://eqi.uci.edu/steven-r-white/), [Kieron Burke](https://eqi.uci.edu/kieron-burke/)\
-   [[Phys. Rev. B 2022](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.245138)] [[arXiv:2203.09647](https://arxiv.org/abs/2203.09647)]
 
 ### Talks
 (slides may not include latest updates)
