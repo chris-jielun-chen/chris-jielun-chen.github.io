@@ -19,22 +19,22 @@ Before Caltech, I earned B.S. degrees in physics and computer science at UC Irvi
 1. **Convergence of the cumulant expansion and polynomial-time algorithm for weakly interacting fermions**\
    [Hongrui Chen](https://scholar.google.com/citations?hl=en&user=YuxL73sAAAAJ), [Cambyse Rouzé](https://www.xn--cambyserouz-lbb.fr/), Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Samuel O. Scalet](https://scholar.google.com/citations?user=r1PlDJQAAAAJ&hl=en), [Yongtao Zhan](https://scholar.google.com/citations?hl=en&user=cYsoessAAAAJ), [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet), [Lexing Ying](https://web.stanford.edu/~lexing/), [Yu Tong](https://sites.math.duke.edu/~yt222/)
    [[arXiv:2512.12010](https://arxiv.org/abs/2512.12010)]
-2. **Framework for robust quantum speedups in practical correlated electronic structure and dynamics**\
+3. **Framework for robust quantum speedups in practical correlated electronic structure and dynamics**\
    Jielun Chen, [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet)\
    [[Phys. Rev. Lett. 2026](https://journals.aps.org/prl/abstract/10.1103/v2ms-wmz1)][[arXiv:2508.15765](https://arxiv.org/abs/2508.15765)] [[XPRIZE Finalist](https://blog.google/innovation-and-ai/technology/research/google-gesda-xprize-quantum-applications-finalists/)]
-3. **Quantum linear algebra for disordered electrons**\
+4. **Quantum linear algebra for disordered electrons**\
    Jielun Chen, [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet)\
    [[arXiv:2411.00434](https://arxiv.org/abs/2411.00434)]
-4. **Positive bias makes tensor-network contraction tractable**\
+5. **Positive bias makes tensor-network contraction tractable**\
    [Jiaqing Jiang](https://jiaqingjiang.github.io/), Jielun Chen, [Norbert Schuch](https://schuch.univie.ac.at/nschuch/), [Dominik Hangleiter](https://dhangleiter.github.io/)\
    [[QIP 2025](https://youtu.be/6clFrPeDYiw?si=xwYgceBmDHyXiOe1)] [[STOC 2025](https://dl.acm.org/doi/10.1145/3717823.3718105)] [[arXiv:2410.05414](https://arxiv.org/abs/2410.05414)]
-5. **Sign problem in tensor network contraction**\
+6. **Sign problem in tensor network contraction**\
    Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Dominik Hangleiter](https://dhangleiter.github.io/), [Norbert Schuch](https://schuch.univie.ac.at/nschuch/)\
    [[PRX Quantum 2025](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010312)] [[arXiv:2404.19023](https://arxiv.org/abs/2404.19023)]
-6. **Direct interpolative construction of the discrete Fourier transform as a matrix product operator**\
+7. **Direct interpolative construction of the discrete Fourier transform as a matrix product operator**\
   (alphabetical order) Jielun Chen, [Michael Lindsey](https://quantumtative.github.io/)\
    [[ACHA](https://www.sciencedirect.com/science/article/pii/S1063520325000715)][[arXiv:2404.03182](https://arxiv.org/abs/2404.03182)]
-7.  **Quantum Fourier transform has small entanglement**\
+8.  **Quantum Fourier transform has small entanglement**\
    Jielun Chen, [E.M. Stoudenmire](https://itensor.org/miles/), [Steven R. White](https://eqi.uci.edu/steven-r-white/)\
    [[PRX Quantum 2023](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040318)] [[arXiv:2210.08468](https://arxiv.org/abs/2210.08468)]
 
