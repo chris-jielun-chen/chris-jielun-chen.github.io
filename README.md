@@ -2,9 +2,7 @@
 
 My name is Jielun Chen (陈捷伦), and I also go by Chris. I'm a Ph.D. student at Caltech, advised by Prof. [Garnet Chan](https://www.chan-lab.caltech.edu) and Prof. [John Preskill](https://preskill.caltech.edu/).
 
-My research aims to find practical quantum advantages in simulating molecules and materials. We recently developed a [framework for polynomial quantum speedups](https://arxiv.org/abs/2508.15765) under the same approximations used in classical electronic-structure methods.
-
-I also aim to understand the classical–quantum boundary through [tensor-network](https://en.wikipedia.org/wiki/Tensor_network) simulations, such as how [sign structure](https://arxiv.org/abs/2404.19023) affects [the difficulty of contracting tensor networks](https://arxiv.org/abs/2410.05414), and what [quantum-inspired tensor-network algorithms](https://chris-jielun-chen.github.io/assets/slides/QTT_UCB.pdf) can do.
+I am broadly interested in classical and quantum algorithms for studying physical systems. More recently, I've been working on practical quantum advantages in simulating molecules and materials. 
 
 Before Caltech, I earned B.S. degrees in physics and computer science at UC Irvine in 2022, where I worked with Prof. [Steve White](https://eqi.uci.edu/steven-r-white/) on tensor-network methods and with Prof. [Kieron Burke](https://eqi.uci.edu/kieron-burke/) on density functional theory.
 
