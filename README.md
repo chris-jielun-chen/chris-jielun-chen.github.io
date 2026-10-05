@@ -16,7 +16,7 @@ Before Caltech, I earned B.S. degrees in physics and computer science at UC Irvi
 ### Recent Papers
 
 1. **Quasiparticle quantum simulation of materials with the Bethe-Salpeter equation**\
-   Jielun Chen, Jiace Sun, [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet)\
+   Jielun Chen, [Jiace Sun](https://susyustc.github.io/), [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet)\
    [[arXiv:2610.02916](https://arxiv.org/pdf/2610.02916)]
 2. **Convergence of the cumulant expansion and polynomial-time algorithm for weakly interacting fermions**\
    [Hongrui Chen](https://scholar.google.com/citations?hl=en&user=YuxL73sAAAAJ), [Cambyse Rouzé](https://www.xn--cambyserouz-lbb.fr/), Jielun Chen, [Jiaqing Jiang](https://jiaqingjiang.github.io/), [Samuel O. Scalet](https://scholar.google.com/citations?user=r1PlDJQAAAAJ&hl=en), [Yongtao Zhan](https://scholar.google.com/citations?hl=en&user=cYsoessAAAAJ), [Garnet K. Chan](https://www.chan-lab.caltech.edu/about-garnet), [Lexing Ying](https://web.stanford.edu/~lexing/), [Yu Tong](https://sites.math.duke.edu/~yt222/)\
