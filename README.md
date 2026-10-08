@@ -10,7 +10,7 @@ Before Caltech, I earned B.S. degrees in physics and computer science at UC Irvi
 
 - **Oct 2026** — We posted a [preprint on quasiparticle quantum simulation of materials with the Bethe-Salpeter equation](https://arxiv.org/pdf/2610.02916), building on the widely used classical GW+BSE approach to excitation energies. This is our first concrete quantum resource estimate within our [framework for finding quantum advantages in regimes where classical heuristics are effective](https://arxiv.org/abs/2508.15765).
 - **Sep 2026** — Our work on [robust quantum speedups for electronic structure and dynamics](https://journals.aps.org/prl/abstract/10.1103/v2ms-wmz1) was accepted in *Physical Review Letters*. We advocate seeking large polynomial quantum advantages in regimes where classical heuristics are effective.
-- **Dec 2025** — We posted a [preprint on a polynomial-time algorithm for weakly interacting fermions](https://arxiv.org/abs/2512.12010).
+- **Dec 2025** — We posted a [preprint on the first rigorous classical polynomial-time algorithm for weakly interacting fermions](https://arxiv.org/abs/2512.12010).
 - **Dec 2025** — Calbee Quantum, our team led by Garnet Chan, was selected as one of seven [XPRIZE Quantum Applications finalists](https://blog.google/innovation-and-ai/technology/research/google-gesda-xprize-quantum-applications-finalists/).
 
 ### Recent Papers
